@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/allImage"
+            android:layout_width="330dp"
+            android:layout_height="257dp"
+            android:layout_gravity="center"
+            android:layout_margin="1dp"
+            tools:src="@drawable/aboutmansoura" />
+
+        <TextView
+            android:id="@+id/bigText"
+            style="@style/title_text"
+            android:textColor="@color/title_color"
+            android:textSize="@dimen/title_dimen"
+            tools:text="Mansoura :-" />
+
+        <TextView
+            android:id="@+id/smallText"
+            style="@style/content_text"
+            android:shadowColor="@color/colorPrimaryDark"
+            android:textColor="@color/content_color"
+            android:textSize="@dimen/content_dimen"
+            tools:text="@string/about_content" />
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">This Mansoura</string>
+
+    <string name="category_about">About</string>
+    <string name="category_hotel">Hotel</string>
+    <string name="category_restaurant">Restaurant</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_sights">Sights</string>
+
+
+    <!--This is the category of the About -->
+    <!--title text of the about fragment -->
+    <string name="about_title">Mansoura :- </string>
+    <!--content text of the about fragment -->
+    <string name="about_content">
+        Mansoura is a town in Lower Egypt.This Nile delta town is virtually unknown to tourists.Mansoura in Arabic means "victorious".
+        The city is named after the Egyptian victory at the El Mansoura Battle over Louis IX of France during the Seventh Crusade.
+        \n\n Mansoura was established in 1219 by al-Kamil of the Ayyubid dynasty.
+        After the Egyptians defeated the Crusaders during the Sixth Crusade, it was named Mansoura.</string>
+
+
+    <!--This is the category of the Hotel -->
+    <!--title text of the hotel 1 fragment-->
+    <string name="hotel_title_1">Marshal Hotel</string>
+    <!--content text of the hotel 1  fragment-->
+    <string name="hotel_content_1">" "Marshal el gezira" (located in Elmashaya st.)
+        and "Marshal el mahatta" (opposite to the train station)."</string>
+
+    <!--title text of the hotel 2 fragment-->
+    <string name="hotel_title_2">Ramada Hotel</string>
+    <!--content text of the hotel 2  fragment-->
+    <string name="hotel_content_2">"located in Elgomhoria st. opposite to Metro Market,
+        it's more luxurious with a pool and better restaurant."</string>
+
+
+    <!--This is the category of the Restaurant -->
+    <!--title text of the restaurant 1 fragment-->
+    <string name="restaurant_title_1">Stereo Restaurant</string>
+    <!--content text of the restaurant 1  fragment-->
+    <string name="restaurant_content_1">"Address: Almashaya Alsoflia cross Hagras St., Mansoura Qism 2,
+        Mansoura, Dakahlia Governorate Hours:Opens 10A phone: 0101 091 2525"</string>
+
+    <!--title text of the restaurant 2 fragment-->
+    <string name="restaurant_title_2">Spectra Restaurant</string>
+    <!--content text of the restaurant 2  fragment-->
+    <string name="restaurant_content_2">"Address: In front of El Mansoura University,22 El Gomhouria St,
+        Mansoura, Dakahlia Governorate Phone: 19491"</string>
+
+    <!--title text of the restaurant 3 fragment-->
+    <string name="restaurant_title_3">Bremer Burger</string>
+    <!--content text of the restaurant 3  fragment-->
+    <string name="restaurant_content_3">"Address: Gehan Al Sadat, Mit Khamis WA Kafr Al Mougi, Mansoura, Dakahlia Governorate
+        Hours:Opens 10AM Phone: 0101 161 0673"</string>
+
+    <!--title text of the restaurant 4 fragment-->
+    <string name="restaurant_title_4">Ketchup Restaurants</string>
+    <!--content text of the restaurant 4  fragment-->
+    <string name="restaurant_content_4">"Address: 44 Gehan Al Sadat,Mansoura, Dakahlia Governorate
+        Hours:Opens 8AM Phone: 050 2243145 "</string>
+
+    <!--title text of the restaurant 5 fragment-->
+    <string name="restaurant_title_5">Al Sabbah</string>
+    <!--content text of the restaurant 5  fragment-->
+    <string name="restaurant_content_5">"Address: Kanat Al Sweis, Mansoura Qism 2, Mansoura, Dakahlia Governorate
+        Hours:Opens 11AM Phone: 050 2309942"</string>
+
+    <!--title text of the restaurant 6 fragment-->
+    <string name="restaurant_title_6">DA VINCI</string>
+    <!--content text of the restaurant 6  fragment-->
+    <string name="restaurant_content_6">"Address: Gehan Al Sadat, Mit Badr Khamees, Mansoura, Dakahlia Governorate
+        Hours:Opens 11AM Phone: 050 2351621"</string>
+
+    <!--title text of the restaurant 7 fragment-->
+    <string name="restaurant_title_7">Fattoma</string>
+    <!--content text of the restaurant 7  fragment-->
+    <string name="restaurant_content_7">"Address: 90 El Gomhouria St, EL MANSOURA، Mansoura, Dakahlia Governorate
+        Hours:Opens 10AM Phone: 0100 085 5561"</string>
+
+    <!--title text of the restaurant 8 fragment-->
+    <string name="restaurant_title_8">El Baghl El Kobra</string>
+    <!--content text of the restaurant 8  fragment-->
+    <string name="restaurant_content_8">"Address: 30 El-Galaa,Mansoura, Dakahlia Governorate
+        Hours: Open 24 hours Phone: 050 2218035"</string>
+
+    <!--title text of the restaurant 9 fragment-->
+    <string name="restaurant_title_9">"McDonald's"</string>
+    <!--content text of the restaurant 9  fragment-->
+    <string name="restaurant_content_9">"Classic, long-running fast-food chain known for its burgers, fries and shakes.
+        Address: 40 El Gomhouria St, Mit Khamis WA Kafr Al Mougi, Mansoura, Dakahlia Governorate
+        Hours: Open 24 hours Phone: 19991"</string>
+
+    <!--title text of the restaurant 10 fragment-->
+    <string name="restaurant_title_10">KFC</string>
+    <!--content text of the restaurant 10  fragment-->
+    <string name="restaurant_content_10">"Fast-food chain known for its buckets of fried chicken, plus wings and sides.
+        Address: Kanat Al Sweis, Mansoura Qism 2, Mansoura, Dakahlia Governorate
+        Hours:Opens 10AM Phone: 19019"</string>
+
+
+    <!--This is the category of the Shopping -->
+    <!--title text of the shopping_title_1 fragment-->
+    <string name="shopping_title_1">Mansoura DownTown</string>
+    <!--content text of the shopping_content_1 fragment-->
+    <string name="shopping_content_1">"Address: El-Gaish St, Mansoura Qism 2, Mansoura, Dakahlia Governorate
+        Hours: Opens 10AM"</string>
+
+    <!--title text of the shopping_title_2 fragment-->
+    <string name="shopping_title_2">"Gama'a Plaza Mall"</string>
+    <!--content text of the shopping_content_2 fragment-->
+    <string name="shopping_content_2">"Address: Gehan Al Sadat, Mansoura Qism 2, Mansoura, Dakahlia Governorate
+        Hours:Opens 11AM Phone: 0127 629 5645 "</string>
+
+    <!--title text of the shopping_title_3 fragment-->
+    <string name="shopping_title_3">Xbox Stores</string>
+    <!--content text of the shopping_content_3 fragment-->
+    <string name="shopping_content_3">"Address: Gehan Al Sadat, Mansoura Qism 2, Mansoura, Dakahlia Governorate
+        Hours:Opens 11PM Phone: 050 2374367"</string>
+
+    <!--title text of the shopping_title_4 fragment-->
+    <string name="shopping_title_4">Carrefour</string>
+    <!--content text of the shopping_content_4 fragment-->
+    <string name="shopping_content_4">"Address: 35111, Mansoura Qism 2, Mansoura, Dakahlia Governorate 35111
+        Hours:Opens 7AM "</string>
+
+    <!--title text of the shopping_title_5 fragment-->
+    <string name="shopping_title_5">Pen And Paper</string>
+    <!--content text of the shopping_content_5 fragment-->
+    <string name="shopping_content_5">"Address: Gehan Al Sadat, Mansoura Qism 2, Mansoura, Dakahlia Governorate
+        Hours:Opens 10AM"</string>
+
+    <!--title text of the shopping_title_6 fragment-->
+    <string name="shopping_title_6">Ravin Jeanswear </string>
+    <!--content text of the shopping_content_6 fragment-->
+    <string name="shopping_content_6">"Address: Al-Gmohorya St, Mansoura
+        Hours:Opens 11AM Phone: 02 24032090"</string>
+
+    <!--title text of the shopping_title_7 fragment-->
+    <string name="shopping_title_7">NEW BORN</string>
+    <!--content text of the shopping_content_7 fragment-->
+    <string name="shopping_content_7">"Address: Al Mashayah Al Sofleya St, Mit Khamis WA Kafr Al Mougi, Mansoura, Dakahlia Governorate
+        Phone: 050 2238168"</string>
+
+    <!--title text of the shopping_title_8 fragment-->
+    <string name="shopping_title_8">Town Team</string>
+    <!--content text of the shopping_content_8 fragment-->
+    <string name="shopping_content_8">"Address: El-Iman, Mansoura Qism 2, Mansoura, Dakahlia Governorate
+        Hours:Opens 10AM Phone: 0101 663 2286"</string>
+
+
+    <!--This is the category of the Sights -->
+    <!--title text of the sights_title_1 fragment-->
+    <string name="sights_title_1">Dar Ebn lokman</string>
+    <!--content text of the sights_content_1 fragment-->
+    <string name="sights_content_1">"The house of Louis IX of France during his capture in Mansoura.
+        Address: Mansoura Qism 2, Mansoura, Dakahlia Governorate"</string>
+
+    <!--title text of the sights_title_2 fragment-->
+    <string name="sights_title_2">The monument of the war of October</string>
+    <!--content text of the sights_content_2 fragment-->
+    <string name="sights_content_2">"The monument to the martyrs of the war of October
+        Address: Mansoura Qism 2, Mansoura, Dakahlia Governorate"</string>
+
+    <!--title text of the sights_title_3 fragment-->
+    <string name="sights_title_3">Um Kulthum Square</string>
+    <!--content text of the sights_content_3 fragment-->
+    <string name="sights_content_3">"Umm Kulthum's one of the most famous and popular Arab singers
+        Address: Mansoura Qism 2, Mansoura, Dakahlia Governorate"</string>
+
+    <!--title text of the sights_title_4 fragment-->
+    <string name="sights_title_4">Statue of King Ramses</string>
+    <!--content text of the sights_content_4 fragment-->
+    <string name="sights_content_4">"The Statue of Ramesses II is a 3,200-year-old figure of Ramesses II,
+        Address: Mansoura Qism 2, Mansoura, Dakahlia Governorate Hours: Open 24 hours"</string>
+
+
+</resources>

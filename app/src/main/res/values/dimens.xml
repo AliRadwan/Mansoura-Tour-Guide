@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--this dimen for the image-->
+    <dimen name="image_dimen">300dp</dimen>
+    <!--this dimen for the title-->
+    <dimen name="title_dimen">20sp</dimen>
+    <!--this dimen for the content-->
+    <dimen name="content_dimen">16sp</dimen>
+</resources>
